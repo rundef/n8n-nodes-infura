@@ -14,7 +14,7 @@ Infura is a scalable API gateway for Ethereum, IPFS, and other decentralized pro
 [Compatibility](#compatibility)  
 [Resources](#resources)
 
-🚀 ## Installation
+ ## 🚀 Installation
 
 Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes/installation/) in the n8n community nodes documentation.
 
@@ -41,18 +41,13 @@ This node currently supports:
 To use this node:
 
 - [Sign up for Infura](https://infura.io/)
-- Create a new project to get your Project ID (and optionally Project Secret)
+- Create a new project to get your Project ID
 - In n8n, add new credentials for "Infura API" and enter your project details
-
-For Ethereum mainnet, use:
-https://mainnet.infura.io/v3/<PROJECT_ID>
-
-Other endpoints for testnets and supported L2s are also available.
 
 ## 🧩 Compatibility
 
 - Minimum n8n version: 1.0.0
-- Tested with: n8n 1.33.x and above
+- Tested with: n8n 1.97.x and above
 - No known incompatibilities
 
 
