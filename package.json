@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "description": "n8n node for connecting workflows to the Infura API and Ethereum blockchain data",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-community-node-package",
+    "n8n",
+    "infura",
+    "ethereum"
   ],
   "license": "MIT",
   "homepage": "https://github.com/rundef/n8n-nodes-infura",
